@@ -2,9 +2,9 @@
 
 ## **SISTEM PENUNJANG KEPUTUSAN**
 
- **Nama: Fahrul Alfarisi
- Kelas: 07TPLP013
- NIM: 201011401141**
+ ***Nama: Fahrul Alfarisi<br>
+ Kelas: 07TPLP013<br>
+ NIM: 201011401141<br>***
 
 ## **TEMPAT UTS UAS FAHRUL ALFARISI**
 
