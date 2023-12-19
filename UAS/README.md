@@ -17,4 +17,5 @@ Install postman:
 
 
 ## Hasil
-[Screenshoots Running](UAS/Screenshoots Running)
+[Screenshoots Running_1](UAS/Screenshoots Running/Running (1).png)
+[Screenshoots Running_1](UAS/Screenshoots Running/Running (2).png)
