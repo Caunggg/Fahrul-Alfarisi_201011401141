@@ -1,0 +1,11 @@
+"id","brand","ram","rom","processor","baterai","ukuran_layar","harga"
+1,Samsung Galaxy A24,8GB,128GB,Helio G99,5000 mAh,6.50 inci,Rp3.000.000
+2,Samsung Galaxy A34 5G,8GB,128GB,Dimensity 1080 (7nm),5000 mAh,6.60 inci,Rp4.125.000
+3,Samsung Galaxy A54 5G,8GB,128GB,Exynos 1380,5100 mAh,6.40 inci,Rp4.970.000
+4,Samsung Galaxy A14 5G,6GB,128GB,Dimensity 700 (7nm),5000 mAh,6.60 inci,Rp2.450.000
+5,Samsung Galaxy A23 5G,6GB,128GB,Snapdragon 695 5G (6nm),5000 mAh,6.60 inci,Rp2.550.000
+6,Samsung Galaxy A04,4GB,64GB,Snapdragon 695 5G (6nm),5000 mAh,6.50 inci,Rp1.275.000
+7,Samsung Galaxy A04s,4GB,64GB,Exynos 850 (8nm),5000 mAh,6.50 inci,Rp1.660.000
+8,Samsung Galaxy A32 5G,8GB,128GB,Dimensity 720G 5G (7nm),5000 mAh,6.50 inci,Rp3.200.000
+9,Samsung Galaxy M23 5G,6GB,128GB,Snapdragon 750G 5G (8nm),5000 mAh,6.60 inci,Rp2.595.000
+10,Samsung Galaxy M33 5G,6GB,128GB,Exynos 1280,5000 mAh,6.60 inci,Rp3.100.000
