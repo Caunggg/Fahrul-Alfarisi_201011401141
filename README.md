@@ -2,10 +2,9 @@
 
 ## **Identitas**
 
-### Nama: Fahrul Alfarisi
-### Kelas: 07TPLP013
-### NIM: 201011401141
+ Nama: Fahrul Alfarisi
+ Kelas: 07TPLP013
+ NIM: 201011401141
 
-## **Deskripsi Proyek**
+## **TEMPAT UTS UAS FAHRUL ALFARISI**
 
-ULANGAN UTS DAN UAS
